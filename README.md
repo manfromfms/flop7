@@ -11,8 +11,9 @@ TODO
 
 # Plan
 
-1. Evaluation without action cards.
-2. Evaluation with `second chance`.
-3. Target selection for `freeze` action card.
-4. Target selection for `second chance` action card.
-5. Target selection for `flip three` action card.
+1. [x] Evaluation without action cards.
+2. [ ] Evaluation with `second chance`.
+3. [ ] Solo evaluation with `flip three`.
+4. [ ] Target selection for `freeze` action card.
+5. [ ] Target selection for `second chance` action card.
+6. [ ] Target selection for `flip three` action card.
